@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoSuaPrimeiraAplicacao", "CriandoSuaPrimeiraAplicacao\CriandoSuaPrimeiraAplicacao.csproj", "{AA05DF1F-369C-41BE-ACAA-A681210E8322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA05DF1F-369C-41BE-ACAA-A681210E8322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA05DF1F-369C-41BE-ACAA-A681210E8322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA05DF1F-369C-41BE-ACAA-A681210E8322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA05DF1F-369C-41BE-ACAA-A681210E8322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
