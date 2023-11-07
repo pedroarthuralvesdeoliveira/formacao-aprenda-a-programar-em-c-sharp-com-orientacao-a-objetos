@@ -12,6 +12,14 @@ Dictionary<string, Banda> bandasRegistradas = new ();
 bandasRegistradas.Add(ira.Nome, ira);
 bandasRegistradas.Add(beatles.Nome, beatles);
 
+Dictionary<int, Menu> opcoes = new();
+opcoes.Add(1, new MenuRegistrarBanda());
+opcoes.Add(2, new MenuRegistrarAlbum());
+opcoes.Add(3, new MenuMostrarBandas());
+opcoes.Add(4, new MenuAvaliarBanda());
+opcoes.Add(5, new MenuExibirDetalhes());
+opcoes.Add(-1, new MenuSair());
+
 void ExibirOpcoesDoMenu()
 {
     Menu.ExibirLogo();
@@ -26,47 +34,16 @@ void ExibirOpcoesDoMenu()
     string opcaoEscolhida = Console.ReadLine()!;
     int opcaoEscolhidaNumerica = int.Parse(opcaoEscolhida);
 
-    switch (opcaoEscolhidaNumerica)
+    if (opcoes.ContainsKey(opcaoEscolhidaNumerica))
     {
-        case 1:
-            MenuRegistrarBanda menuRegistrarBanda = new MenuRegistrarBanda();
-            menuRegistrarBanda.Executar(bandasRegistradas);
-            VoltarAoMenu();
-            break;
-        case 2:
-            MenuRegistrarAlbum menuRegistrarAlbum = new MenuRegistrarAlbum();
-            menuRegistrarAlbum.Executar(bandasRegistradas);
-            VoltarAoMenu();
-            break;
-        case 3:
-            MenuMostrarBandas menuMostrarBandas = new MenuMostrarBandas();
-            menuMostrarBandas.Executar(bandasRegistradas);
-            VoltarAoMenu();
-            break;
-        case 4:
-            MenuAvaliarBanda menuAvaliarBanda = new MenuAvaliarBanda();
-            menuAvaliarBanda.Executar(bandasRegistradas);
-            VoltarAoMenu();
-            break;
-        case 5:
-            MenuExibirDetalhes menuExibirDetalhes = new MenuExibirDetalhes();
-            menuExibirDetalhes.Executar(bandasRegistradas);
-            VoltarAoMenu();
-            break;
-        case -1:
-            MenuSair.Executar();
-            break;
-        default:
-            break;
+        Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
+        menuASerExibido.Executar(bandasRegistradas);
+        if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
     }
-}
-
-void VoltarAoMenu()
-{
-    Console.WriteLine("Digite uma tecla para voltar ao menu principal");
-    Console.ReadKey();
-    Console.Clear();
-    ExibirOpcoesDoMenu();
+    else
+    {
+        Console.WriteLine("Opção inválida! ");
+    }
 }
 
 ExibirOpcoesDoMenu();
