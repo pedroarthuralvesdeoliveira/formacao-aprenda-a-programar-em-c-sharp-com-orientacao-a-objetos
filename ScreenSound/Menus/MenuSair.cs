@@ -4,8 +4,8 @@ namespace ScreenSound.Menus;
 
 internal class MenuSair : Menu
 {
-    public static void Executar()
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
-        Console.WriteLine("Opção inválida");
+        Console.WriteLine("Tchau tchau :)");
     }
 }

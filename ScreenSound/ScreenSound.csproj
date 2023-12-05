@@ -7,4 +7,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="OpenAI" Version="1.7.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Modelos\Episodio.cs" />
+    </ItemGroup>
+
 </Project>
