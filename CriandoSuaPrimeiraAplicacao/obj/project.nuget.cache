@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pl/ugljN2I2lhLAxgGoxNDxh5vFD4mAXDE9eYUZUbWk/juKW90m6mPqWF6jO6uIc0CEmItIIDEceq7Pa9oolAQ==",
+  "dgSpecHash": "XWPPxCUBVSnjpUkXO9S+fBkOwAKvnkMWK9Jwb8HVgj9QAMv37vThbSgEg8oPN3SsEtRhrbG/CVtGz/Omz9MF9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
