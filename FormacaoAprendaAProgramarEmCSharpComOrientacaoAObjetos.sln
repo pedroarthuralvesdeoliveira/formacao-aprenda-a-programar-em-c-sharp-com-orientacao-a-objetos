@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoSuaPrimeiraAplicacao
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundAPI", "ScreenSoundAPI\ScreenSoundAPI.csproj", "{F4172A84-075C-42AB-AA7D-411E22E111A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86ED59E-2D50-4421-ACA2-F1CAD4BAC095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4172A84-075C-42AB-AA7D-411E22E111A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4172A84-075C-42AB-AA7D-411E22E111A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4172A84-075C-42AB-AA7D-411E22E111A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4172A84-075C-42AB-AA7D-411E22E111A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
