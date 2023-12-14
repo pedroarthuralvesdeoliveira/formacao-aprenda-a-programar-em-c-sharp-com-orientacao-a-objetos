@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj": {}
+    "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj": {
+    "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
         "projectName": "CriandoSuaPrimeiraAplicacao",
-        "projectPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
+        "projectPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
         "packagesPath": "C:\\Users\\pedro.sistemas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\obj\\",
+        "outputPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\CriandoSuaPrimeiraAplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",

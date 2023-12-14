@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\ScreenSound\\ScreenSound.csproj",
+        "projectPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\ScreenSound\\ScreenSound.csproj",
         "packagesPath": "C:\\Users\\pedro.sistemas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\ScreenSound\\obj\\",
+        "outputPath": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",

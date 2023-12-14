@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "735qkR8p6eNnGQR3yEFeh0vmZdphMdM07tpgbc3lPXRELhjDYTIHDTeYVI0A0cDWV1EMVaRlG7Edtuam0R5Eew==",
+  "dgSpecHash": "/YB6VUq2JuOPDUCxrUI4wn8Yj4kcIksQhY4Uae4sIxo77Y0PdZN3nt3IchqwXDOeOO21wPF8XA7O48MbQdDxZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\ScreenSound\\ScreenSound.csproj",
+  "projectFilePath": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\ScreenSound\\ScreenSound.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",

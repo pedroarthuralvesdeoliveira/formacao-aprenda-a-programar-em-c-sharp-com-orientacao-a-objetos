@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScreenSound
-build_property.ProjectDir = C:\Users\pedro.sistemas\RiderProjects\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\ScreenSound\
+build_property.ProjectDir = C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSound\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

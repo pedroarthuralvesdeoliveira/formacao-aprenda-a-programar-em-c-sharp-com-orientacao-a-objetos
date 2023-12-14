@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWPPxCUBVSnjpUkXO9S+fBkOwAKvnkMWK9Jwb8HVgj9QAMv37vThbSgEg8oPN3SsEtRhrbG/CVtGz/Omz9MF9A==",
+  "dgSpecHash": "feV8WiANAMxSjAEXsM0elwNjxPhtcbX5MgZ7CoGsOSO6Z9OJetM2CJ4kzzzktRw9IxhhN2w8HkzNR//qLMZHDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro.sistemas\\RiderProjects\\FormacaoAprendaAProgramarEmCSharpComOrientacaoAObjetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
+  "projectFilePath": "C:\\Users\\pedro.sistemas\\RiderProjects\\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\\CriandoSuaPrimeiraAplicacao\\CriandoSuaPrimeiraAplicacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\pedro.sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",

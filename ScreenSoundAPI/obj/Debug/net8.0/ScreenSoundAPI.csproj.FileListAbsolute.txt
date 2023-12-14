@@ -1,0 +1,15 @@
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.exe
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.deps.json
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.runtimeconfig.json
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.dll
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\bin\Debug\net8.0\ScreenSoundAPI.pdb
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.AssemblyInfo.cs
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.sourcelink.json
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.dll
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\refint\ScreenSoundAPI.dll
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.pdb
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ScreenSoundAPI.genruntimeconfig.cache
+C:\Users\pedro.sistemas\RiderProjects\formacao-aprenda-a-programar-em-c-sharp-com-orientacao-a-objetos\ScreenSoundAPI\obj\Debug\net8.0\ref\ScreenSoundAPI.dll
